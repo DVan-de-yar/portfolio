@@ -31,4 +31,4 @@ Another of my projects was to do a EDA on a renewal energy data set which after 
 One of my recent projects involved the creation of an Recurrent neural network and use of nlp(natural language processor) to do sentiment analysis on some book reviews, to train the model to determine whether a review was good or bad based on the words in the text.
 
 ##### Use link below to view Github repository with above mentioned tasks
-https://github.com/DVan-de-yar/Data_science.git - automatic!
+[Github](https://github.com/DVan-de-yar/Data_science.git) 
